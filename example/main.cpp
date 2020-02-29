@@ -1,4 +1,3 @@
-%%writefile /content/test/example/main.cpp 
 #include <iostream>
 #include <Eigen/Dense>
 using Eigen::MatrixXd; 
